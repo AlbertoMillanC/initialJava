@@ -1,4 +1,4 @@
-public class iteracion {
+public class Iteracion {
 	public static final long STOP = 1000000000000L;
 	
 	public static void main (String []args) {
